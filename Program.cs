@@ -66,7 +66,7 @@ namespace Arbre
             showListTree(infixe);
         }
 
-        // TD 3
+        // TD 4
         static void ArbreEquilibre()
         {
             Tree root = new Tree()
